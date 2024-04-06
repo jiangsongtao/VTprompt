@@ -1,7 +1,7 @@
 # VTprompt
 
 This repository contains the code for the paper: "Joint Visual and Text Prompting for Improved Object-Centric Perception with Multimodal Large Language Models".
-[pipeline4.pdf](https://github.com/jiangsongtao/VTprompt/files/14892212/pipeline4.pdf)
+<img width="1085" alt="image" src="https://github.com/jiangsongtao/VTprompt/assets/43131870/16380f21-d044-45e9-b38e-234467589245">
 
 ## Installation
 
