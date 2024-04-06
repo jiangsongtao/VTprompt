@@ -12,3 +12,7 @@ Please follow the instructions in [Grounded Segment Anything](https://github.com
 
 1. Building Vprompt
 2. Using Tprompt to prompt Multimodal Large Language Models for generating answers.
+
+## Evaluation Code and Usage Tutorial
+
+We are currently in the process of organizing detailed evaluation code and usage tutorials. Please stay tuned for updates!
